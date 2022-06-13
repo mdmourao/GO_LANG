@@ -3,6 +3,9 @@
 [GO DOC](https://go.dev/doc/)  
 [GO DOC ORG](https://pkg.go.dev/)
 
+### Useful links to specific resources
+[GO DOC SPECS](https://go.dev/ref/spec)
+
 ### Install
  ```
  Download: https://go.dev/dl/
