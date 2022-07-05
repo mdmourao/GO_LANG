@@ -6,6 +6,10 @@
 ### Useful links to specific resources
 [GO DOC SPECS](https://go.dev/ref/spec)
 
+## Wiki
+
+Go is a statically typed, compiled programming language!
+
 ### Install
  ```
  Download: https://go.dev/dl/
@@ -18,3 +22,7 @@
 ### Version Used
 
 go version go1.18.3 darwin/arm64
+
+### Other commands
+
+unset GOPATH
