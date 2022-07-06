@@ -16,5 +16,15 @@
 
 ### moore's law revision
 
-### numeral systems
+### Numbers vars
+
+any number is a constant
+
+int vs float
+
+int & float bits: 8 16 32 64
+
+signed and unsigned e.g:  (-128 to 127 and 0 to 255)
+
+### Strings
 
